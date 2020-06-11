@@ -1,24 +1,6 @@
-# README
+# Message Morris
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a chat app I build for fun and to explore Ruby on Rails 6 and Action Cable. Users can sign up/log in with a username and chat in the chat room. 
 
-Things you may want to cover:
+The finished [demo](https://message-morris.herokuapp.com/login) is on Heroku. Feel free to sign up and chat !
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
